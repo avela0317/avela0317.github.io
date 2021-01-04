@@ -11,8 +11,8 @@ Within this portfolio, I will be providing information for various projects that
 **[Case_Study_Imputations_with_AutoML_Model](https://avela0317.github.io/Python/AV_JW_Unit10_CaseStudy.html):** 
 <br/>Within this case study, different imputation methods were used to address missing values within the Sberbank Russian Housing Market dataset.  The Pycaret machine learning package was then used to quickly run a large number of different regression algorithms on the same dataset.
 
-**[Model3](https://avela0317.github.io/Python/AV_JW_Unit8_CaseStudy.html):** 
-<br/>Within this case study, 
+**[Case_Study_WebScraping_RaceData](https://avela0317.github.io/Python/AV_JW_Unit4_CaseStudy.html):** 
+<br/>Within this case study, race data was scraped using BeautifulSoup with the associated text cleaned and transformed prior to creating a presentable dataframe.  The data gathered and used was female ten-mile race data from the Cherry Blossom Ten Mile Run website. Techniques utilized throughout this case study include web scraping, function creation, regex pattern utilization, variable type modifications, and dataframe creation. The final dataframe consisted of races ran from from 1999 through 2012.
 
 ---
 
