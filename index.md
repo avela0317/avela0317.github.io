@@ -21,7 +21,7 @@ I have a passion for data science & analytics, so feel free to reach me on my Li
 ---
 
 ### Tableau Project Portfolio
-*Note: the following links will take you to my tableu public site where all of these data visualization workbooks are hosted.*
+*Note: the following links will take you to my Tableau public site where all of these data visualization workbooks are hosted.*
 
 **[World_Demographics_Animation](https://public.tableau.com/profile/avela0317#!/vizhome/World_Demographics_Animation_16100566502730/WorldDemographics):** 
 <br/>An animation dashboard displaying life expectancy and fertility rate by country.  Playing the animation will show the changes from 1960-2013.
@@ -35,7 +35,7 @@ I have a passion for data science & analytics, so feel free to reach me on my Li
 ---
 
 ### SQL Skills Overview and Resource Portfolio
-*Note: the following link will take you to the specific html reports hosted within this github repository.*
+*Note: the following link will take you to the specific html report hosted within this github repository.*
 
 **[SQL Querying Notebook](https://avela0317.github.io/SQL/SQL_DS_Tutorial.html):** 
 <br/>This notebook was used to keep track of relevant queries associated to each concept discussed within the tutorial.  Topics included are as follows:
