@@ -2,7 +2,7 @@
 
 This portfolio will provide information for various data projects.  The types of reports displayed below consist of Python, Tableau, SQL, & Excel.  
 
-I have a passion for data science & analytics, so feel free to reach me on my linkedin with any helpful feedback.  
+I have a passion for data science & analytics, so feel free to reach me on my LinkedIn with any helpful feedback.  
 
 ---
 
